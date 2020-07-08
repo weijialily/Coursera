@@ -1,3 +1,3 @@
 # Courses
 
-AWS Machine Learning Foundations Course
+1. AWS Machine Learning Foundations Course
