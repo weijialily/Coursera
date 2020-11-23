@@ -43,5 +43,5 @@ Collection and store (HDFS, KAFKA)
  - Electronic business
    - Personalized recommendation in purchasing 
  - Vedio
-  - Tiktok vedio analysis and recommendation 
-  - Youtube vedio and advertisement recommendation 
+   - Tiktok vedio analysis and recommendation 
+   - Youtube vedio and advertisement recommendation 
